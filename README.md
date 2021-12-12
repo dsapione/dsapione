@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dsapione
 - 👀 I’m interested in full stack web development.
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS, and Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dsapione@gmail.com
 
